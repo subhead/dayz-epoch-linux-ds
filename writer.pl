@@ -18,14 +18,10 @@ use constant {
     DB_PORT   => 3306,               # Set database port (default 3306)
 
     CACHE_DIR => $ENV{'PWD'}.'/cache/',
-    # Start inventory of player
-    # INVENTORY => '[["8Rnd_9x18_Makarov","8Rnd_9x18_Makarov","ItemBandage","ItemPainkiller"],["ItemMap","ItemCompass","ItemRadio","Makarov","ItemSodaCoke","FoodbeefCooked"]]',
-    # BACKPACK  => '["DZ_Patrol_Pack_EP1",[],[]]',
-    # MODEL     => '"Survivor2_DZ"'
 	# Start inventory of player
-    INVENTORY => '[["ItemMap","ItemCompass","M9","MeleeCrowbar"],["15Rnd_9x19_M9","15Rnd_9x19_M9","ItemBandage","ItemBandage","ItemBloodbag","ItemMorphine","FoodCanFrankBeans","ItemSodaPepsi","ItemPainkiller","ItemGoldBar6oz"]]',
-    BACKPACK  => '["DZ_Patrol_Pack_EP1",[],[]]',
-    MODEL     => '"Survivor2_DZ"'
+    INVENTORY => '[["ItemMap","ItemCompass",,"ItemKnife","ItemHatchet","M9","MeleeCrowbar"],["15Rnd_9x19_M9","15Rnd_9x19_M9","ItemBandage","ItemBandage","ItemBloodbag","FoodCanFrankBeans","ItemSodaXdrink","ItemGoldBar6oz"]]',
+    BACKPACK  => '["DZ_TerminalPack_EP1",[],[]]',
+    MODEL     => '"Survivor4_DZ"'
 };
 
 my %cid_inv = ();
