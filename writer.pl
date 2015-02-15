@@ -19,8 +19,8 @@ use constant {
 
     CACHE_DIR => $ENV{'PWD'}.'/cache/',
 	# Start inventory of player
-    INVENTORY => '[["ItemMap","ItemCompass",,"ItemKnife","ItemHatchet","M9","MeleeCrowbar"],["15Rnd_9x19_M9","15Rnd_9x19_M9","ItemBandage","ItemBandage","ItemBloodbag","FoodCanFrankBeans","ItemSodaXdrink","ItemGoldBar6oz"]]',
-    BACKPACK  => '["DZ_TerminalPack_EP1",[],[]]',
+    INVENTORY => '[["ItemMap","ItemCompass","ItemKnife","ItemHatchet","M9","MeleeCrowbar"],["15Rnd_9x19_M9","15Rnd_9x19_M9","ItemBandage","ItemBandage","ItemBloodbag","FoodCanFrankBeans","ItemSodaXdrink","ItemGoldBar6oz"]]',
+    BACKPACK  => '["DZ_Patrol_Pack_EP1",[],[]]',
     MODEL     => '"Survivor4_DZ"'
 };
 

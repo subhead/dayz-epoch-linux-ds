@@ -1,0 +1,1 @@
+["PASS",false,"1",[],[["ItemMap","ItemCompass","ItemKnife","ItemHatchet","M9","MeleeCrowbar"],["15Rnd_9x19_M9","15Rnd_9x19_M9","ItemBandage","ItemBandage","ItemBloodbag","FoodCanFrankBeans","ItemSodaXdrink","ItemGoldBar6oz"]],["DZ_Patrol_Pack_EP1",[],[]],[0,0,0],"Survivor4_DZ",0.96,0]
